@@ -1,0 +1,3 @@
+../Core/Src/PollingRoutines.c:21:6:PollingInit	8	static
+../Core/Src/PollingRoutines.c:27:6:PollingRoutine	8	static
+../Core/Src/PollingRoutines.c:37:6:HAL_UART_RxCpltCallback	16	static
